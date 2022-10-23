@@ -1,5 +1,4 @@
 # Titulo
-## Titulo segundo nivel
 
 Esta es la documentación de mi aplicación
 
@@ -16,3 +15,12 @@ Lorem
 
 asdasdasd
 asdasdas
+
+## Subtitulo
+
+Lorem
+
+- Item
+- Item
+- Item
+- Item
