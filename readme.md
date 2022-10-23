@@ -15,12 +15,3 @@ Lorem
 
 asdasdasd
 asdasdas
-
-## Subtitulo
-
-Lorem
-
-- Item
-- Item
-- Item
-- Item
